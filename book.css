@@ -1,0 +1,40 @@
+.container-image {
+  background-image: url("https://assets.ccbp.in/frontend/dynamic-webapps/book-search-bg.png");
+  height: 50vh;
+}
+
+.heading-book-search {
+  font-family: bree Serif;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
+
+.input-size {
+  width: 400px;
+  margin-left: 60px;
+  margin-top: 10px;
+  margin-right: 75px;
+}
+
+.search-results {
+  width: 100%;
+  padding-left: 20px;
+}
+
+.image-size {
+  margin-right: 30px;
+  margin-bottom: 15px;
+  margin-top: 10px;
+}
+
+.paragraphEl-class {
+  font-family: bree Serif;
+  font-size: 13px;
+}
+
+.heading-book-search2 {
+  font-family: bree serif;
+  text-align: center;
+  margin-top: 10px;
+}
